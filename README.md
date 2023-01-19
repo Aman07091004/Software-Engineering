@@ -1,3 +1,2 @@
 # Software-Engineering
-
-Lmao Ded noob
+Updating this readme file for coursera project.
